@@ -1,15 +1,11 @@
-﻿# Thibaut Jouet
 ![Codewars](https://github.r2v.ch/codewars?user=Red-system)
-<h1 align="center">Hi 👋, I'm Thibaut Jouet</h1>  
 <h3 align="center">A front end developer from France</h3>  
   
 - 🌱 I’m currently working on perfecting Laravel
   
 - 💬 Ask me about **React, VueJs and my budding interest in PHP**  
   
-- 📫 Reach me on **thibaut.jouet64@gmail.com**  
-  
-- 📄 Know about my experiences [https://www.linkedin.com/in/thibaut-jouet/](https://www.linkedin.com/in/thibaut-jouet/)  
+- 📫 Reach me on **gotoemailtwo.guise341@passinbox.com**  
   
 <h3 align="left">Languages and Tools:</h3>  
 <p align="center"> 
@@ -40,3 +36,4 @@
  
   </a> 
 </p>
+
